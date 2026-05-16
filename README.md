@@ -1,2 +1,2 @@
-# data_science_beginner
-This is created for everyone wanna learn data as beginner
+# cluster_analysis
+This is created for completing my duty as student of data science
